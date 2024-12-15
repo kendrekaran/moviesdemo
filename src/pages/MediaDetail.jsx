@@ -207,7 +207,7 @@ const MediaDetail = () => {
                       size="large"
                       startIcon={<PlayArrowIcon />}
                       onClick={() => {
-                        window.location.href=`https://player.autoembed.cc/embed/movie/${mediaId}`
+                        window.location.href=`https://moviesapi.club/movie/${mediaId}`
                       }}
                     >
                       watch now
